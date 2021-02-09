@@ -1,9 +1,9 @@
 🔭 Hello! I'm currently working on a Snake game as well as some other projects.  
 🌱 I'm a big noob in coding though, so any help would be appreciated.  
-😄 My pronouns are he/him.
-⚡ A random fact: A donkey will sink in quicksand, but a mule won't.
+😄 My pronouns are he/him.  
+⚡ A random fact: A donkey will sink in quicksand, but a mule won't.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra?theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
