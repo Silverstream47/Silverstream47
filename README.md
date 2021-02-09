@@ -1,4 +1,10 @@
-### Hi there 👋
+🔭 Hello! I'm currently working on a Snake game as well as some other projects.  
+🌱 I'm a big noob in coding though, so any help would be appreciated.  
+😄 My pronouns are he/him.
+⚡ A random fact: A donkey will sink in quicksand, but a mule won't.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Silverstream47/Silverstream47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
