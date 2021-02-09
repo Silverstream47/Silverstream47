@@ -3,7 +3,7 @@
 😄 My pronouns are he/him.
 ⚡ A random fact: A donkey will sink in quicksand, but a mule won't.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra?theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
