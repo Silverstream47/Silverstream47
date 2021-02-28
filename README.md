@@ -1,7 +1,4 @@
 # About Me  
-🔭 Hello! I'm currently working on a Snake game as well as some other projects.  
-🌱 I'm a big noob in coding though, so any help would be appreciated.  
-😄 My pronouns are he/him.  
 ⚡ A random fact: A donkey will sink in quicksand, but a mule won't.  
 
 ### Github Stats
